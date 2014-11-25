@@ -1,0 +1,4 @@
+#!/bin/bash
+subl -p vic.sublime-project
+
+
